@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kryuchcov
 - 👀 I’m interested in Robotics, programing, electronics, AI, artificial vision and a little bit in software develop
-- 🌱 I’m currently learning RPA, data science, and other things....
+- 🌱 I’m currently learning DevOps, systems architecture, and other things....
 - 📫 https://www.linkedin.com/in/kryuchcov/ https://www.researchgate.net/profile/Kryuchcov-Castro
 
 <!---
