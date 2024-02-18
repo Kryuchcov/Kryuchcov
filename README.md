@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kryuchcov&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://app.daily.dev/kryuchcov"><img src="https://github.com/Kryuchcov/Kryuchcov/blob/master/devcard.svg" width="356" alt="Kryuchcov's Dev Card"/></a>
+<a href="https://app.daily.dev/kryuchcov"><img src="https://github.com/Kryuchcov/Kryuchcov/blob/main/devcard.svg" width="356" alt="Kryuchcov's Dev Card"/></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kryuchcov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
