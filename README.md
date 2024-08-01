@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as SRE/DevOps in Latailabs<br>🌱 I’m currently learning cloud architecture patterns, specially focus on AI systems<br>💬 Ask me about AI, robotics and SRE<br>⚡ Fun fact... I'm getting in love with philosophy
+🔭 I’m currently working as SRE/DevOps<br>🌱 I’m currently learning cloud architecture patterns, specially focus on AI systems<br>💬 Ask me about AI, robotics and SRE<br>⚡ Fun fact... I'm getting in love with philosophy
 
 ## Follow my latailabs profile:
 [![GitHub](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)](https://github.com/kryuchcovCastro)
