@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as SRE/DevOps<br>🌱 I’m currently learning cloud architecture patterns, specially focus on AI systems<br>💬 Ask me about AI, robotics and SRE<br>⚡ Fun fact... I'm getting in love with philosophy
 
-//[![GitHub](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)](https://github.com/kryuchcovCastro)
+<[![GitHub](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)](https://github.com/kryuchcovCastro)>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kryuchcov) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12721866) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vochcuyrk) 
